@@ -9,3 +9,6 @@ def main():
 def get_student():
     name = input("name: ")
     house = input("house: ")
+
+if __name__ == "__main__":
+    main()
